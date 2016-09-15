@@ -1,6 +1,6 @@
 # Sistema de envio de mensagen peer-to-peer (WhatsAp2p)
 Utilizando a linguagem C, foi desenvolvido um sistema de troca de
-mensagens e fotos peertopeer,
+mensagens peer-to-peer,
 através da rede, utilizando o protocolo TCP. Esse
 sistema é composto por módulos de usuários que se comunicam entre si, e com um
 servidor central, ou seja, é um sistema semelhante ao antigo Napster. </br>
