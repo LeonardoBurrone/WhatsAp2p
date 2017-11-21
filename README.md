@@ -1,4 +1,7 @@
 # Sistema de envio de mensagen peer-to-peer (WhatsAp2p)
+------------------------------------------------------------------------------------------------------------------------------------------
+Projeto desenvolvido para a disciplica de Redes de Computadores A
+------------------------------------------------------------------------------------------------------------------------------------------
 Utilizando a linguagem C, foi desenvolvido um sistema de troca de
 mensagens peer-to-peer,
 através da rede, utilizando o protocolo TCP. Esse
